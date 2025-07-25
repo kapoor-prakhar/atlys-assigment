@@ -16,7 +16,6 @@ const Header: React.FC = () => {
           <span className="font-bold text-xl">foo-rum</span>
         </div>
 
-        {/* Right: Auth Controls */}
         <div className="flex items-center space-x-3">
           {user ? (
             <>
