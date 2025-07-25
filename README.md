@@ -15,3 +15,6 @@ This repository has Atlys Frontend Hiring Task with the following features.
 - Development mode: Run `npm run start` or `yarn start`
 - Production build: Run `npm run build` or `yarn build`
 
+## Live Demo
+Access the live app here:
+🔗 https://atlys-assigment-9b43-git-main-prakhar-kapoors-projects.vercel.app/
