@@ -29,6 +29,7 @@ const handleSubmit = async (e: React.FormEvent) => {
       username: user!.username,
       avatar: User
     },
+     emoji: '😊',
     content: content.trim(),
     timestamp: 'now',
     likes: 0,
