@@ -15,4 +15,3 @@ This repository has Atlys Frontend Hiring Task with the following features.
 - Development mode: Run `npm run start` or `yarn start`
 - Production build: Run `npm run build` or `yarn build`
 
-Open the CLI logged url to view it in the browser.

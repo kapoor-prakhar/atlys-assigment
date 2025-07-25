@@ -64,7 +64,7 @@ export const AuthProvider: React.FC<{ children: React.ReactNode }> = ({ children
     setShowModal(false);
   };
 
-  const requireAuth = (action?: any) => {
+  const requireAuth = () => {
     if (!user) {
       openModal('signin');
       return false;

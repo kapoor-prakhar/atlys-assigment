@@ -1,4 +1,4 @@
-import React from 'react';
+
 import { AuthProvider } from './components/Auth/AuthContext';
 import Feed from './components/Feed/Feed';
 import './App.css';
